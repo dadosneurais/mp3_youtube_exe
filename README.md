@@ -15,6 +15,13 @@
   2.1. pyinstaller --onefile --noconsole frame.py
   2.2. inside the folder dist is the frame.exe
 ```
+### Manual package installer:
+```
+1. pip install pyqt5
+2. python -m pip install --upgrade git+https://github.com/yt-dlp/yt-dlp
+3. pip install pyinstaller
+```
+
 ## 🧙‍♂️ Enjoy
 - MIT © DadosNeurais Project<br/>
 
