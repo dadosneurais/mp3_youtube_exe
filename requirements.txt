@@ -1,3 +1,23 @@
-﻿PyQt5==5.15.11
+altgraph==0.17.4
+Brotli==1.1.0
+certifi==2024.8.30
+charset-normalizer==3.3.2
+idna==3.10
+mutagen==1.47.0
+packaging==24.1
+pefile==2024.8.26
+pycryptodomex==3.20.0
+pyglet==2.0.17
 pyinstaller==6.10.0
+pyinstaller-hooks-contrib==2024.8
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.2
+PyQt5_sip==12.15.0
+PyQt5Designer==5.14.1
+pywin32-ctypes==0.2.3
+requests==2.32.3
+setuptools==75.1.0
+urllib3==2.2.3
+websockets==13.0.1
+wheel==0.44.0
 yt-dlp @ git+https://github.com/yt-dlp/yt-dlp@4a9bc8c3630378bc29f0266126b503f6190c0430
