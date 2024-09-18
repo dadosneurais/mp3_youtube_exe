@@ -16,7 +16,5 @@
   2.2. inside the folder dist is the frame.exe
 ```
 ## 🧙‍♂️ Enjoy
-```
-made by: dadosneurais
-```
+- MIT © DadosNeurais Project<br/>
 
