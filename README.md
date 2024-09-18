@@ -12,7 +12,7 @@
 1. install the requirements.txt with pip:
   1.1. pip install -r requirements.txt
 2. run this command on the frame.py folder:
-  2.1. pyinstaller --onefile --noconsole frame.py
+  2.1. pyinstaller --onefile --windowed --icon=skull.ico frame.py
   2.2. inside the folder dist is the frame.exe
 ```
 ### Manual package installer:
